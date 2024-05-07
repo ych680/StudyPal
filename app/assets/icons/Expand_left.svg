@@ -1,0 +1,17 @@
+<svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="31" height="31" fill="#BCE1E3"/>
+<g id="Message" clip-path="url(#clip0_0_1)">
+<rect width="360" height="800" transform="translate(-10 -53)" fill="#FAFAFA"/>
+<g id="Header 2">
+<rect id="Rectangle 4163" x="-10" y="-53" width="360" height="90" fill="#FAFAFA"/>
+<g id="Expand_left">
+<path id="Vector 9" d="M19.375 7.75L11.625 15.5L19.375 23.25" stroke="#33363F" stroke-width="2"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="360" height="800" fill="white" transform="translate(-10 -53)"/>
+</clipPath>
+</defs>
+</svg>

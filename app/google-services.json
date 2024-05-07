@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1024367022529",
+    "firebase_url": "https://study-pal-7752b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "study-pal-7752b",
+    "storage_bucket": "study-pal-7752b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024367022529:android:16d4b4777908750334df40",
+        "android_client_info": {
+          "package_name": "com.studypals.studypal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024367022529-1gei5vnsevg631d63v8p850j8ht5omqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studypals.studypal",
+            "certificate_hash": "c0a26c1135410e955d881e49d2e09e5b6e349f7f"
+          }
+        },
+        {
+          "client_id": "1024367022529-2ndg6m310sj0ggl71brcoucoei1260lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studypals.studypal",
+            "certificate_hash": "df5cae753f85193e2d20c1297802bc624f6bb5df"
+          }
+        },
+        {
+          "client_id": "1024367022529-vdlouild7ho5rnrcn9hk68hb8pigd0up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-u1kHCQ3Q9bU0O0zQU_8yZiaPZM6lyRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024367022529-9tkjhe71907ci3tvgfsf8f1n1rmd1p9m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024367022529-bnl7k567h86of83po2vsgfansmhag28f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.Exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024367022529:android:2b2938e596ccd1e034df40",
+        "android_client_info": {
+          "package_name": "studypals.studypal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024367022529-vdlouild7ho5rnrcn9hk68hb8pigd0up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-u1kHCQ3Q9bU0O0zQU_8yZiaPZM6lyRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024367022529-9tkjhe71907ci3tvgfsf8f1n1rmd1p9m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024367022529-bnl7k567h86of83po2vsgfansmhag28f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.Exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
